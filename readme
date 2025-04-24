@@ -1,0 +1,9 @@
+start doker in wsl
+
+sudo service docker start
+
+langchain method 
+https://python.langchain.com/docs/integrations/vectorstores/qdrant/
+
+docker up
+docker compose -f docker-compose.graph.yml up
